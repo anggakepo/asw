@@ -22,9 +22,9 @@ auto_cek_task_list = "n"
 auto_absen = "y"
 auto_morse = "y"
 auto_klaim_kombo = "n"
-max_harga_kartu = 5000000
+max_harga_kartu = 2000000
 auto_balap_sepeda = "y"
-auto_game_clone = "y"
+auto_game_clone = "n"
 auto_game_cube = "y"
 auto_game_train = "y"
 auto_minigame = "y"
@@ -34,7 +34,7 @@ auto_upgrade_energy = "n" # Jika auto_upgrade_energy = Y, sesuaikan lv_upgrade_e
 lv_upgrade_energy = 9
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 auto_upgrade_pph = "n" # Jika auto_upgrade_pph = Y, lv_upgrade_multitap
-harga_maksimal = 10000000
+harga_maksimal = 1000000
 tunggu_cooldown = "y" # Tunggu cooldown kartu terbaik. jika Y sesuaikan max_tunggu_cooldown
 max_tunggu_cooldown = 300 #dalam detik
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
