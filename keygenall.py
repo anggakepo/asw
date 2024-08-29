@@ -1,13 +1,29 @@
-#app_token_bike = 'd28721be-fd2d-4b45-869e-9f253b554e50'
-#promo_id_bike = '43e35910-c168-4634-ad4f-52fd764a843f'
-#app_token_clone = '74ee0b5b-775e-4bee-974f-63e7f4d5bacb'
-#promo_id_clone = 'fe693b26-b342-4159-8808-15e3ff7f8767'
-#app_token_cube = 'd1690a07-3780-4068-810f-9b5bbf2931b2'
-#promo_id_cube = 'b4170868-cef0-424f-8eb9-be0622e8e8e3'
-#app_token_train = '82647f43-3f87-402d-88dd-09a90025313f'
-#promo_id_train = 'c4480ac7-e178-4973-8061-9ed5b2e17954'
+app_token_bike = 'd28721be-fd2d-4b45-869e-9f253b554e50'
+promo_id_bike = '43e35910-c168-4634-ad4f-52fd764a843f'
+###
+app_token_polysphere = '2aaf5aee-2cbc-47ec-8a3f-0962cc14bc71'
+promo_id_polysphere = '2aaf5aee-2cbc-47ec-8a3f-0962cc14bc71'
+#
+app_token_cube = 'd1690a07-3780-4068-810f-9b5bbf2931b2'
+promo_id_cube = 'b4170868-cef0-424f-8eb9-be0622e8e8e3'
+#
+app_token_train = '82647f43-3f87-402d-88dd-09a90025313f'
+promo_id_train = 'c4480ac7-e178-4973-8061-9ed5b2e17954'
+#
 app_token = 'd28721be-fd2d-4b45-869e-9f253b554e50'
 promo_id = '43e35910-c168-4634-ad4f-52fd764a843f'
+#
+app_token_merge = '8d1cc2ad-e097-4b86-90ef-7a27e19fb833'
+promo_id_merge = 'dc128d28-c45b-411c-98ff-ac7726fbaea4'
+#
+app_token_twerk = '61308365-9d16-4040-8bb0-2f4a4c69074c'
+promo_id_twerk = '61308365-9d16-4040-8bb0-2f4a4c69074c'
+#
+app_token_mud = '8814a785-97fb-4177-9193-ca4180ff9da8'
+promo_id_mud = '8814a785-97fb-4177-9193-ca4180ff9da8'
+#
+app_token_cafe = 'bc0971b8-04df-4e72-8a3e-ec4dc663cd11'
+promo_id_cafe = 'bc0971b8-04df-4e72-8a3e-ec4dc663cd11'
 import time
 import random
 import string
